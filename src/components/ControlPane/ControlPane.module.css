@@ -10,10 +10,13 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+  white-space: nowrap;
+  overflow: auto;
 }
 
 .title {
   margin: 0;
+  padding-bottom: 16px;
   /* Optical centering */
   margin-bottom: -4px;
 }
